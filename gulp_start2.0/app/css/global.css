@@ -1,0 +1,18 @@
+body{
+   color: #000;
+   font-size: 30px;
+   display: flex;
+   flex-direction: column;
+   min-height: 100vh;
+   justify-content: space-between;
+}
+
+.conteiner{
+   max-width: 1200px;
+   margin: 0 auto;
+}
+
+
+
+
+
